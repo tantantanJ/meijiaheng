@@ -1,0 +1,32 @@
+{
+	"meishi": [
+		"../img/meishi/meishi1.jpg",
+		"../img/meishi/meishi2.jpg",
+		"../img/meishi/meishi3.jpg",
+		"../img/meishi/meishi4.jpg",
+		"../img/meishi/meishi5.jpg"
+	],
+	"oushi": [
+		"../img/meishi/oushi1.jpg"
+	],
+	"xiandai": [
+		"../img/xiandai/xiandai.jpg",
+		"../img/xiandai/xiandai12.jpg",
+		"../img/xiandai/xiandai13.jpg",
+		"../img/xiandai/xiandai15.jpg",
+		"../img/xiandai/xiandai2.jpg",
+		"../img/xiandai/xiandai3.jpg",
+		"../img/xiandai/xiandai4.jpg",
+		"../img/xiandai/xiandai5.jpg",
+		"../img/xiandai/xiandai6.jpg",
+		"../img/xiandai/xiandai7.jpg",
+		"../img/xiandai/xiandai8.jpg",
+		"../img/xiandai/xiandai1meishi.jpg"
+	],
+	"xinzhongshi": [
+		"../img/xinzhongshi/bangongshi.jpg",
+		"../img/xinzhongshi/xinzhongshi1.jpg",
+		"../img/xinzhongshi/xinzhongshi2.jpg",
+		"../img/xinzhongshi/xinzhongshiwoshi.jpg"
+	]
+}
